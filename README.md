@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @danbuche - Daniel Bucherer, APAC Technology Strategy Lead for Microsoft 
 - 👀 What's driving me is basically any application of technology driving real life benefits
-- 🌱 I’m currently learning Q# - when I studied Quantum Mechanics in university, I never thought to be coding on it :)
+- 🌱 I’m currently learning DAPR and Q# - when I studied Quantum Mechanics in university, I never thought to be coding on it :)
 - 📫 Reach out to me through my profile
